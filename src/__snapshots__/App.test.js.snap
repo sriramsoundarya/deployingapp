@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot testing for App Component 1`] = `
+<div
+  className="App"
+>
+  <nav
+    className="navbar bg-dark justify-content-between"
+  >
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        href="/gituser"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        Github Users
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        href="/Dashboard"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        Dashboard
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        href="/Projects"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        My Projects
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        href="/topics"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        My topics
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        href="/about"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        About
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        href="/Contact"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        Contact Us
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        href="/Login"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        Login
+      </a>
+    </li>
+    <li
+      className="nav-link"
+    >
+      <a
+        aria-current={null}
+        href="/Logout"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        Logout
+      </a>
+    </li>
+  </nav>
+  <h1>
+    404 error
+  </h1>
+</div>
+`;
